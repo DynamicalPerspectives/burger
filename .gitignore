@@ -60,4 +60,4 @@ typings/
 node_modules
 
 # contains db password
-config/connection.js
+./config/connection.js
