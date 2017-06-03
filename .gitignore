@@ -57,6 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+node-modules
 
 # contains db password
-secrets.js
+secret.js
